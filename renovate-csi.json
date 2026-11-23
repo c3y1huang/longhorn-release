@@ -29,7 +29,7 @@
     "osvVulnerabilityAlerts": true,
     "vulnerabilityAlerts": {
       "enabled": true,
-      "automerge": false,
+      "automerge": true,
       "minimumReleaseAge": null,
       "schedule": [
         "at any time"
